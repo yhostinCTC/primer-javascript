@@ -1,0 +1,15 @@
+.tarjeta{
+  width: 90px;
+  display: inline-block;
+  margin-right: 10px;
+  text-align: center;
+  border: 1px solid rgb(58, 56, 56) ;
+}
+.nombre_tarjeta{
+  background-color: rgb(207, 54, 54);
+}
+
+.nombre_tarjeta p{
+  color: white;
+  margin-bottom: 0px;
+}

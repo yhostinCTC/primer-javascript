@@ -34,7 +34,7 @@ let resultado4 = 0
 resultado1 = 
 resultado2 = 
 resultado3 = 
-resultado4 = 
+resultado4 = 4 % 2
 
 console.log(resultado1)
 
